@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thewi\\OneDrive - New England Institute of Technology\\New England Tech\\Term 4\\SE245.14[C#]\\se245\\Labs\\d_davis_lab_3\\d_davis_lab_3\\d_davis_lab_3.csproj",
+      "projectUniqueName": "C:\\Users\\thewi\\OneDrive - New England Institute of Technology\\New England Tech\\Term 4\\SE245.14[C#]\\se245-\\Labs\\d_davis_lab_3\\d_davis_lab_3\\d_davis_lab_3.csproj",
       "projectName": "d_davis_lab_3",
-      "projectPath": "C:\\Users\\thewi\\OneDrive - New England Institute of Technology\\New England Tech\\Term 4\\SE245.14[C#]\\se245\\Labs\\d_davis_lab_3\\d_davis_lab_3\\d_davis_lab_3.csproj",
+      "projectPath": "C:\\Users\\thewi\\OneDrive - New England Institute of Technology\\New England Tech\\Term 4\\SE245.14[C#]\\se245-\\Labs\\d_davis_lab_3\\d_davis_lab_3\\d_davis_lab_3.csproj",
       "packagesPath": "C:\\Users\\thewi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thewi\\OneDrive - New England Institute of Technology\\New England Tech\\Term 4\\SE245.14[C#]\\se245\\Labs\\d_davis_lab_3\\d_davis_lab_3\\obj\\",
+      "outputPath": "C:\\Users\\thewi\\OneDrive - New England Institute of Technology\\New England Tech\\Term 4\\SE245.14[C#]\\se245-\\Labs\\d_davis_lab_3\\d_davis_lab_3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
